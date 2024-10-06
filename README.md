@@ -1,2 +1,2 @@
 # kermit
-Robot that mantains a target position for a ball on a plate
+For this project, I plan to conduct a control systems analysis of a robot that has a plate on which a ball rolls so as to maintain a target position for the ball. This requires first deriving the dynamics of the electromechanical system, and proving its controllability given sensor feedback of the plate's orientation. I will then design a control algorithm, test it using a computer simulation, prove its stability and derive an upper bound on the delay, overshoot and steady-state error that can be achieved while still maintaining stability. Finally, I will implement the control algorithm and compare the real-world results with those predicted by the computer model and mathematical analysis.
